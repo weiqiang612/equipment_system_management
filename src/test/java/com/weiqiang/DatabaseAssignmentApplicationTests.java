@@ -15,4 +15,9 @@ class DatabaseAssignmentApplicationTests {
         System.out.println(connection);
     }
 
+    @Test
+    void testGit(){
+        System.out.println("Hello Git!");
+    }
+
 }
