@@ -17,7 +17,7 @@ class DatabaseAssignmentApplicationTests {
 
     @Test
     void testGit(){
-        System.out.println("Hello Git!");
+        System.out.println("Hello GIt!");
     }
 
 }
