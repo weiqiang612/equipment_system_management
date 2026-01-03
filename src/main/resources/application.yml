@@ -1,0 +1,9 @@
+# 后端监听端口
+server:
+  port: 8888
+# 连接数据库
+spring:
+  profiles:
+    active: dev # 默认激活开发环境
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
